@@ -3,3 +3,6 @@ express, servidor web
 web-push, nuestro notificador. Transmición de notificaciones, módulo de node
 dotenv, para usar var de entorno, nos guarda las var en el OS
 morgan, servirá para monitorear las notificaciones que nos van llegando 
+
+
+Ok. vamos a probar lo del change log
